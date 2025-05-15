@@ -1,4 +1,0 @@
-// Este arquivo simula o banco de dados de pessoas.
-// Formato: codigo;nome;tipo
-1;Luiz ;CLIENTE
-2;gustavo;FORNECEDOR

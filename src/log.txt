@@ -1,2 +1,0 @@
-// Arquivo de log das ações do usuário
-// Formato: [yyyy-MM-dd HH:mm:ss] ação
