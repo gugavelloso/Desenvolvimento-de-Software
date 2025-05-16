@@ -1,0 +1,21 @@
+// Arquivo de log das ações do usuário
+// Formato: [yyyy-MM-dd HH:mm:ss] ação
+[2025-05-15 20:53:16] Pessoa criada: código=7, nome=jeremias, tipo=CLIENTE
+[2025-05-15 20:53:26] Listagem de pessoas. Total: 5
+[2025-05-15 20:54:00] Pessoa removida: código=1
+[2025-05-15 20:57:14] Pessoa criada [codigo=8, nome=jaraguai, tipo=CLIENTE]
+[2025-05-15 20:57:16] Listagem de pessoas. Total: 5
+[2025-05-15 20:57:21] Tentativa de atualizar pessoa não encontrada [codigo=1, nome=, tipo=null]
+[2025-05-15 20:57:38] Pessoa atualizada [codigo=8, nome=Jambroca, tipo=AMBOS]
+[2025-05-15 20:57:42] Listagem de pessoas. Total: 5
+[2025-05-15 20:58:15] Pessoa criada [codigo=9, nome=jambrai, tipo=AMBOS]
+[2025-05-15 20:58:21] Pessoa removida [codigo=2, nome=gustavo, tipo=FORNECEDOR]
+[2025-05-15 21:07:21] Pessoa criada: código=1, nome=luiz, tipo=CLIENTE
+[2025-05-15 21:07:23] Listagem de pessoas. Total: 6
+[2025-05-15 21:07:38] Pessoa atualizada: código=4, novoNome=adadadawda, novoTipo=FORNECEDOR
+[2025-05-15 21:07:43] Pessoa removida: código=1
+[2025-05-15 21:09:30] Listagem de pessoas. Total: 5
+[2025-05-15 21:09:44] Tentativa de remover pessoa não encontrada: código=2
+[2025-05-15 21:09:55] Tentativa de remover pessoa não encontrada: código=1
+[2025-05-15 21:09:57] Listagem de pessoas. Total: 5
+[2025-05-15 21:10:00] Pessoa removida: código=3, nome=Nathan, tipo=CLIENTE

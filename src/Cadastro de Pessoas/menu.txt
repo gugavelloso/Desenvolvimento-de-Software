@@ -1,0 +1,5 @@
+1 - Criar Pessoa
+2 - Listar Pessoas
+3 - Atualizar Pessoa
+4 - Deletar Pessoa
+5 - Sair
