@@ -1,0 +1,5 @@
+1 - Buscar Pessoa por Código
+2 - Voltar ao Menu Principal
+3 - Exibir Total de Pessoas
+4 - Listar Pessoas por Tipo
+5 - Sair
