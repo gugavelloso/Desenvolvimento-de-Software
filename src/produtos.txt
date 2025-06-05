@@ -1,0 +1,3 @@
+// codigo;nome;preco;fornecedorCodigo
+1;xibiliu;10.0;1
+2;dasdas;21.0;2

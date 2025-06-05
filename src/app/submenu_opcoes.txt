@@ -1,0 +1,18 @@
+// Arquivo de configuração dos submenus
+// Formato: submenu;opcao;descricao
+pessoas;1;Criar Pessoa
+pessoas;2;Listar Pessoas
+pessoas;3;Atualizar Pessoa
+pessoas;4;Deletar Pessoa
+pessoas;5;Voltar
+produtos;1;Criar Produto
+produtos;2;Listar Produtos
+produtos;3;Atualizar Produto
+produtos;4;Deletar Produto
+produtos;5;Voltar
+pedidos;1;Criar Pedido de Venda
+pedidos;2;Listar Pedidos de Venda
+pedidos;3;Atualizar Pedido de Venda
+pedidos;4;Deletar Pedido de Venda
+pedidos;5;Buscar Pedido de Venda
+pedidos;6;Voltar

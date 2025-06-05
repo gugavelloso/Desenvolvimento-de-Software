@@ -1,0 +1,6 @@
+// id;idPessoa;logradouro;numero;complemento;bairro;cidade;estado;cep
+2;2;dsdfsdfsd;32423423;Entrega - sdffsdfs;34322;fdsfs;sdfdsf;4567546756
+2;2;fdasfsdfsd;324242;comercial - dfsdsdfsfs;sdffsdfsf;sdffsfsdfs;sdffsfs;5467654356
+2;2;fdsadfghjgfdsf;4355435;entrega - gfdsfghfdsfg;fgdsadsfghjgfs;fdghjgfdghj;jghfdsfghj;4565345634
+1;1;xablau;3214234;Comercial - dadada;dsadasda;sadasda;dsdada;81850290
+1;1;dadadadssa;32423432;Residencial - sdfsdfds;sdfsdfsdf;dsfsdfs;fsdfsdfs;345436543

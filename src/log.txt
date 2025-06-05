@@ -1,0 +1,28 @@
+2025-06-03 20:17:11 - Pessoa criada: código=1, nome=Luiz 
+2025-06-03 20:18:49 - Pessoa criada: código=2, nome=Nathan
+2025-06-03 20:19:11 - Pessoa atualizada: código=1
+2025-06-03 20:21:49 - Produto criado: código=1, nome=xibiliu, fornecedor=Luiz 
+2025-06-03 20:24:23 - Produto criado: código=2, nome=dasdas, fornecedor=Nathan
+2025-06-03 20:26:53 - Listagem de endereços: total=5
+2025-06-03 20:27:02 - Listagem de endereços: total=5
+2025-06-03 20:27:28 - Listagem de endereços: total=5
+2025-06-03 20:27:28 - Listagem de endereços: total=5
+2025-06-03 20:27:28 - Endereços salvos: total=6
+2025-06-03 20:27:28 - Pessoa criada: Pessoa{codigo=3, nome='Gustavo', tipo=AMBOS, enderecos=[Endereco{id=3, pessoaId=3, logradouro='ASDASDADA', numero='343532532', complemento='Residencial - DSFSDFSDFS', bairro='dsfsdfsdfsd', cidade='sdffsfsd', estado='sdfsdfsd', cep='35467546354'}]}
+2025-06-03 20:27:28 - Pessoa criada: código=3, nome=Gustavo
+2025-06-03 20:27:33 - Listagem de endereços: total=6
+2025-06-03 20:27:33 - Listagem de pessoas: total=3
+2025-06-03 20:27:37 - Listagem de endereços: total=6
+2025-06-03 20:27:37 - Busca de pessoa: codigo=1, resultado=Pessoa{codigo=1, nome='Luiz ', tipo=FORNECEDOR, enderecos=[Endereco{id=1, pessoaId=1, logradouro='xablau', numero='3214234', complemento='Comercial - dadada', bairro='dsadasda', cidade='sadasda', estado='dsdada', cep='81850290'}, Endereco{id=1, pessoaId=1, logradouro='dadadadssa', numero='32423432', complemento='Residencial - sdfsdfds', bairro='sdfsdfsdf', cidade='dsfsdfs', estado='fsdfsdfs', cep='345436543'}]}
+2025-06-03 20:27:44 - Listagem de endereços: total=6
+2025-06-03 20:27:44 - Listagem de endereços: total=6
+2025-06-03 20:27:44 - Endereços salvos: total=6
+2025-06-03 20:27:44 - Pessoa atualizada: código=1, antes=Pessoa{codigo=1, nome='jubileu', tipo=FORNECEDOR, enderecos=[Endereco{id=1, pessoaId=1, logradouro='xablau', numero='3214234', complemento='Comercial - dadada', bairro='dsadasda', cidade='sadasda', estado='dsdada', cep='81850290'}, Endereco{id=1, pessoaId=1, logradouro='dadadadssa', numero='32423432', complemento='Residencial - sdfsdfds', bairro='sdfsdfsdf', cidade='dsfsdfs', estado='fsdfsdfs', cep='345436543'}]}, depois=Pessoa{codigo=1, nome='jubileu', tipo=FORNECEDOR, enderecos=[Endereco{id=1, pessoaId=1, logradouro='xablau', numero='3214234', complemento='Comercial - dadada', bairro='dsadasda', cidade='sadasda', estado='dsdada', cep='81850290'}, Endereco{id=1, pessoaId=1, logradouro='dadadadssa', numero='32423432', complemento='Residencial - sdfsdfds', bairro='sdfsdfsdf', cidade='dsfsdfs', estado='fsdfsdfs', cep='345436543'}]}
+2025-06-03 20:27:44 - Pessoa atualizada: código=1
+2025-06-03 20:27:49 - Listagem de endereços: total=6
+2025-06-03 20:27:49 - Busca de pessoa: codigo=3, resultado=Pessoa{codigo=3, nome='Gustavo', tipo=AMBOS, enderecos=[Endereco{id=3, pessoaId=3, logradouro='ASDASDADA', numero='343532532', complemento='Residencial - DSFSDFSDFS', bairro='dsfsdfsdfsd', cidade='sdffsfsd', estado='sdfsdfsd', cep='35467546354'}]}
+2025-06-03 20:27:52 - Listagem de endereços: total=6
+2025-06-03 20:27:52 - Listagem de endereços: total=6
+2025-06-03 20:27:52 - Endereços salvos: total=5
+2025-06-03 20:27:52 - Pessoa deletada: Pessoa{codigo=3, nome='Gustavo', tipo=AMBOS, enderecos=[Endereco{id=3, pessoaId=3, logradouro='ASDASDADA', numero='343532532', complemento='Residencial - DSFSDFSDFS', bairro='dsfsdfsdfsd', cidade='sdffsfsd', estado='sdfsdfsd', cep='35467546354'}]}
+2025-06-03 20:27:52 - Pessoa deletada: código=3
