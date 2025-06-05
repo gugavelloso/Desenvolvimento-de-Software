@@ -1,4 +1,0 @@
-// Este arquivo simula o banco de dados de pessoas.
-// Formato: codigo;nome;tipo;cep;endereco;numero;complemento;tipoDeEndereco
-1;gustavo;CLIENTE;1231241;dawdada;2131;asdasdada;casa
-2;nathan;FORNECEDOR;231231;sdadasdas;23423;sddfsdfs;empresa

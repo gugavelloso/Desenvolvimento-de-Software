@@ -1,6 +1,0 @@
-// Este arquivo simula o banco de dados de pessoas.
-// Formato: codigo;nome;tipo
-4;adadadawda;FORNECEDOR
-7;jeremias;CLIENTE
-8;Jambroca;AMBOS
-9;jambrai;AMBOS
